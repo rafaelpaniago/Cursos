@@ -1,8 +1,9 @@
 # CURSOS REALIZADOS
-Aqui eu compartilho alguns cursos que realizei e ainda estou em processo de conclusão.
+Aqui eu compartilho alguns cursos realizados e certificações conquistadas ao longo da minha trajetória profissional.
 
 ## SQL
 
+
 ## PYTHON
 
-## POWER BI
+## EXCEL
